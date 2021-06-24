@@ -13,3 +13,6 @@
 a href="https://github.com/MRK-YT/MT-Rename-Bot/stargazers">
 
 [![Open Source? Yes!](https://badgen.net/badge/icon/github?icon=github&label)](https://chat.whatsapp.com/E22f1QJrpz6D6w7M9aWad2)
+
+Group admin: @⁨Abhinand Valiyaparambil⁩
+Group admin: @devanand 
