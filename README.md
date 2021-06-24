@@ -17,3 +17,4 @@ a ഇ link നിങ്ങളുടെ ഗ്രൂപ്പ്‌ അഭിമ�
 
 Group admin: @⁨Abhinand Valiyaparambil⁩
 Group admin: @devanand 
+Not join our group: [![IAM ✪𝗧𝗘𝗔𝗠 7𝔱𝔥✪!](https://badgen.net/badge/icon/github?icon=github&label)](https://chat.whatsapp.com/E22f1QJrpz6D6w7M9aWad2)
