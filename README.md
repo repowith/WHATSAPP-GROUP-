@@ -8,5 +8,5 @@
     "Rename"
   ],
   "success_url": "https://chat.whatsapp.com/E22f1QJrpz6D6w7M9aWad2
-  "website": "https://github.com/MoTechYT",
+  "website": "https://github.com/devanandm/WHATSAPP-GROUP-.git",
   
