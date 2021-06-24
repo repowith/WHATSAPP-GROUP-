@@ -12,4 +12,4 @@
   
 a href="https://github.com/MRK-YT/MT-Rename-Bot/stargazers">
 
-[![Open Source? Yes!](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/No-OnE-Kn0wS-Me/FILERENAMEBOT)
+[![Open Source? Yes!](https://badgen.net/badge/icon/github?icon=github&label)](https://chat.whatsapp.com/E22f1QJrpz6D6w7M9aWad2)
