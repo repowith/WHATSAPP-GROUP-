@@ -10,7 +10,8 @@
   "success_url": "https://chat.whatsapp.com/E22f1QJrpz6D6w7M9aWad2
   "website": "https://github.com/devanandm/WHATSAPP-GROUP-.git",
   
-a href="https://github.com/MRK-YT/MT-Rename-Bot/stargazers">
+a ഇ link നിങ്ങളുടെ ഗ്രൂപ്പ്‌ അഭിമാനിക്കും
+  ഞാൻ നിങ്ങളുടെ ഗ്രൂപ്പ്‌ നല്ലതുപോലെ നോക്കി നടത്തും 
 
 [![Open Source? Yes!](https://badgen.net/badge/icon/github?icon=github&label)](https://chat.whatsapp.com/E22f1QJrpz6D6w7M9aWad2)
 
